@@ -1,0 +1,30 @@
+div.top a{
+    font-weight: bold;
+    display: inline-block;
+    transition: 1s;
+    text-decoration: none;
+    background-color: white;
+}
+
+   .top a:hover{
+    font-weight: bold;
+    background-color: #D0B0FF;
+    text-decoration: none;
+
+}
+
+div.top2 a{
+    font-weight: bold;
+    display: inline-block;
+    transition: 1s;
+    text-decoration: none;
+    background-color: white;
+}
+
+.top2 a:hover{
+    font-weight: bold;
+    background-color: #cce2ff;
+    text-decoration: none;
+
+}
+
