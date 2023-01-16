@@ -1,0 +1,21 @@
+body{
+    background-color: #D0B0FF;
+    background-image: url(hart2.png);
+    background-size: 5%;
+    }
+    
+.container{   
+    text-align: center;
+    font-weight: bold;
+}
+
+.fav>a{
+    text-decoration: none;
+    color: #000000;
+    background-color: #b3b3b3;
+}
+
+.fav>a:hover{
+    color:#b3b3b3;
+    background-color: #000000;;
+}
