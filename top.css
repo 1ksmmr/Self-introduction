@@ -18,6 +18,7 @@ div.center{
     }
 
 div.center a{
+    color:#000000;
     font-weight: bold;
     display: inline-block;
     transition: 1s;
