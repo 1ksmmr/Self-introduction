@@ -1,0 +1,33 @@
+body{
+    background-color: #D0B0FF;
+    background-image:url(sparkle.gif)
+}
+h1{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translateY(-50%) translateX(-50%);
+    -webkit-transform: rotateY(-50%) translateX(-50%);
+}
+div.center{
+    position: absolute;
+    top:58%;
+    left:50%;
+    transform: translateY(-50%) translateX(-50%);
+    -webkit-transform: rotateY(-50%) translateX(-50%);
+    }
+
+div.center a{
+    font-weight: bold;
+    display: inline-block;
+    transition: 1s;
+    text-decoration: none;
+    background-color: white;
+}
+
+.center a:hover{
+    font-weight: bold;
+    background-color: #D0B0FF;
+    text-decoration: none;
+
+}
